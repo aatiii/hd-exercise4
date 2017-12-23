@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { Http, Response } from '@angular/http';
 import 'rxjs/add/operator/map';
-import { currencyService } from 'currency.service';
 import { Money } from 'money';
 
 @Component({
